@@ -7570,7 +7570,7 @@
     {
         "id": "8716b21e-bc8a-490b-b7df-231c8bd8cbac",
         "datum": "1961-03-24",
-        "plaats": "Zalné",
+        "plaats": "Zaln&eacute;",
         "bron": [
             "f0e33c92-096c-4dfc-bb6b-9b8b70a4290e"
         ],
@@ -7584,7 +7584,7 @@
             "ontsporing"
         ],
         "provincie": "Overijssel",
-        "titel": "Zalné 1961",
+        "titel": "Zaln&eacute; 1961",
         "toegevoegd": 1612148481751,
         "gewijzigd": 1767890603690,
         "twitter": null,
@@ -13166,4 +13166,5 @@
         "boek": [],
         "locatie_geschat": false
     }
+
 ]
