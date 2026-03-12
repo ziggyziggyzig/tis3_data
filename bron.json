@@ -1892,7 +1892,7 @@
         "titel": "(geen titel)",
         "publicatie": "De Grondwet",
         "url": "https://resolver.kb.nl/resolve?urn=MMGARO01:000174896:mpeg21:p010",
-        "datum": null,
+        "datum": "1907-06-29",
         "firebase_id": "QaJt7hjEsLtik6Lh9kkI"
     },
     {
@@ -1945,10 +1945,10 @@
     },
     {
         "id": "84989c2a-e4b4-4e68-88ae-f6d235c392c3",
-        "titel": "{\"__time__\":\"1939-03-16T23:40:00.000Z\"}",
+        "titel": "Een D-trein ontspoord",
         "publicatie": "Bredasche Courant",
         "url": "https://resolver.kb.nl/resolve?urn=MMSAB03:000067278:mpeg21:p006",
-        "datum": null,
+        "datum": "1939-03-17",
         "firebase_id": "RkbQR8hEzTZsrnWOoiZo"
     },
     {
@@ -4305,8 +4305,8 @@
     },
     {
         "id": "6752e5f3-4d25-46e0-b861-0d58d5f96dd6",
-        "titel": "Delftsche Courant",
-        "publicatie": null,
+        "titel": "geen titel",
+        "publicatie": "Delftsche Courant",
         "url": "https://resolver.kb.nl/resolve?urn=MMKB08:000077602:mpeg21:p003",
         "datum": "1938-08-12",
         "firebase_id": "x8DGIaysx4Euymme7lMw"
@@ -6303,4 +6303,5 @@
         "datum": "1970-10-14",
         "firebase_id": null
     }
+
 ]
